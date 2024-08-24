@@ -101,7 +101,7 @@
     },
     {
         "name": "IG STALK",
-        "status": "maintenance",
+        "status": "activer",
         "type": "stalk",
         "method": "GET",
         "desc": "Stalk Instagram",
