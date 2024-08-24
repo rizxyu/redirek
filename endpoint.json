@@ -100,6 +100,14 @@
         "link": "/api/dl/ig?url="
     },
     {
+        "name": "IG STALK",
+        "status": "maintenance",
+        "type": "stalk",
+        "method": "GET",
+        "desc": "Stalk Instagram",
+        "link": "/api/stalk/ig?username="
+    },
+    {
         "name": "Soundcloud",
         "status": "active",
         "type": "downloader",
