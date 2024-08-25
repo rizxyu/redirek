@@ -183,5 +183,5 @@
         "method": "GET",
         "desc": "Dont use this!",
         "link": "/api/nsfw/rule34vid?url="
-    },
+    }
 ]
