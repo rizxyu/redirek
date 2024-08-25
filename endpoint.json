@@ -93,7 +93,7 @@
     },
     {
         "name": "Instagram",
-        "status": "error",
+        "status": "maintenance",
         "type": "downloader",
         "method": "GET",
         "desc": "Download reels, story instagram",
@@ -135,7 +135,7 @@
         "status": "active",
         "type": "search",
         "method": "GET",
-        "link": "/api/dl/tiktok_s?query="
+        "link": "/api/search/tiktok_s?query="
     },
     {
         "name": "Spotify",
