@@ -76,6 +76,14 @@
         "link": "/api/comic/mangatale/getchapter?url="
     },
     {
+        "name": "Mangadex (Search)",
+        "status": "active",
+        "type": "comic",
+        "method": "GET",
+        "desc": "Search info Comic/manga from mangadex",
+        "link": "/api/comic/mangadex/search?search="
+    },
+    {
         "name": "Ytmp3 Flac",
         "status": "active",
         "type": "downloader",
