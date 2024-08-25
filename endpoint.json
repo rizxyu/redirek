@@ -76,14 +76,6 @@
         "link": "/api/comic/mangatale/getchapter?url="
     },
     {
-        "name": "Mangadex (Search)",
-        "status": "active",
-        "type": "comic",
-        "method": "GET",
-        "desc": "search comic, manga, manhwa or manhua from mangadex",
-        "link": "/api/comic/mangadex/search?search="
-    },
-    {
         "name": "Ytmp3 Flac",
         "status": "active",
         "type": "downloader",
@@ -175,13 +167,5 @@
         "method": "GET",
         "desc": "Tracking Case Mpox Virus on the world",
         "link": "/api/virus_cases/mpox-cases?country="
-    },
-    {
-        "name": "Rule34video",
-        "status": "active",
-        "type": "nsfw",
-        "method": "GET",
-        "desc": "Dont use this!",
-        "link": "/api/nsfw/rule34vid?url="
     }
-]
+        ]
