@@ -84,6 +84,22 @@
         "link": "/api/comic/mangadex/search?search="
     },
     {
+        "name": "Shinigami (Update)",
+        "status": "active",
+        "type": "comic",
+        "method": "GET",
+        "desc": "get new info about Comic/manga",
+        "link": "/api/comic/shinigami/browse"
+    },
+    {
+        "name": "Apk (Search&download)",
+        "status": "active",
+        "type": "comic",
+        "method": "GET",
+        "desc": "Search & download apk from aptoide base",
+        "link": "/api/dl/search?search="
+    },
+    {
         "name": "Ytmp3 Flac",
         "status": "active",
         "type": "downloader",
