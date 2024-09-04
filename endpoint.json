@@ -92,9 +92,26 @@
         "link": "/api/comic/shinigami/browse"
     },
     {
-        "name": "Apk (Search&download)",
+        "name": "Shinigami (Search)",
         "status": "active",
         "type": "comic",
+        "method": "GET",
+        "desc": "Search Comic/manga",
+        "link": "/api/comic/shinigami/search?query="
+    },
+    {
+        "name": "Shinigami (Get Info)",
+        "status": "active",
+        "type": "comic",
+        "method": "GET",
+        "desc": "get info sinopsis Comic/manga",
+        "link": "/api/comic/shinigami/getInfo?query="
+    },
+
+    {
+        "name": "Apk (Search&download)",
+        "status": "active",
+        "type": "downloader",
         "method": "GET",
         "desc": "Search & download apk from aptoide base",
         "link": "/api/dl/apk?search="
