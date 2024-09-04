@@ -97,7 +97,7 @@
         "type": "comic",
         "method": "GET",
         "desc": "Search & download apk from aptoide base",
-        "link": "/api/dl/search?search="
+        "link": "/api/dl/apk?search="
     },
     {
         "name": "Ytmp3 Flac",
